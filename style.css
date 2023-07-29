@@ -1,0 +1,25 @@
+html{
+    background-color: aqua;
+}
+.s1{
+    color: brown;
+}
+#s2{
+    color: azure;
+}
+h3{
+    color: green;
+}
+li[draggable]{
+    color: red;
+}
+p{
+     font-family: 'Akatab';
+}
+h1{
+    font-family: 'Caprasimo', cursive;
+}
+.certi{
+    background-color: antiquewhite;
+    text-align: center;
+}
